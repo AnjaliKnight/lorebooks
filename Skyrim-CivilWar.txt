@@ -1,0 +1,766 @@
+#Skyrim
+#CivilWar
+#SkyrimCivilWar
+#FourthEra
+#FourthEraSkyrim
+#CivilWarSkyrim
+#ImperialVsStormcloak
+#ImperialVsStormcloakWar
+#StormcloakRebellion
+#StormcloakWar
+#ImperialWar
+#ImperialLegion
+#Imperials
+#ImperialForces
+#Stormcloaks
+#StormcloakForces
+#StormcloakArmy
+#GeneralTullius
+#UlfricStormcloak
+#Thalmor
+#ThalmorJusticiars
+#AldmeriDominion
+#WhiteGoldConcordat
+#Talos
+#TalosWorship
+#TalosBan
+#TalosPersecution
+#NordIndependence
+#SkyrimIndependence
+#ImperialAuthority
+#NordicTradition
+#PoliticalConflict
+#PoliticalTension
+#MilitaryConflict
+#MilitaryCampaign
+#MilitaryCamps
+#MilitaryPatrols
+#WarFront
+#Battlefront
+#SupplyLines
+#MilitarySupplies
+#WarEconomy
+#Trade
+#TradeDisruption
+#FoodShortages
+#SupplyShortages
+#Refugees
+#Travel
+#DangerousRoads
+#RoadPatrols
+#Bandits
+#Banditry
+#Crime
+#OrganizedCrime
+#Smuggling
+#BlackMarket
+#Mercenaries
+#ThievesGuild
+#ThievesGuildResurgence
+#DarkBrotherhood
+#DarkBrotherhoodResurgence
+#Assassins
+#Espionage
+#Spies
+#PoliticalIntrigue
+#Sabotage
+#Riften
+#Rift
+#JarlLailaLawGiver
+#MavenBlackBriar
+#Whiterun
+#JarlBalgruuf
+#Balgruuf
+#WhiterunNeutrality
+#WhiterunPolitics
+#StrategicWhiterun
+#Solitude
+#Haafingar
+#GeneralTullius
+#ImperialSolitude
+#Markarth
+#Reach
+#SilverBlood
+#SilverBloodFamily
+#Forsworn
+#ForswornRebellion
+#ForswornThreat
+#Reachmen
+#Eastmarch
+#Windhelm
+#StormcloakCapital
+#Falkreath
+#Helgen
+#ImperialHelgen
+#ThePale
+#Dawnstar
+#Hjaalmarch
+#Morthal
+#Winterhold
+#CollegeOfWinterhold
+#CollegeNeutrality
+#HoldPolitics
+#Jarls
+#JarlPolitics
+#HoldLoyalty
+#HoldNeutrality
+#ImperialHolds
+#StormcloakHolds
+#NeutralHolds
+#ThalmorInfluence
+#ThalmorPolitics
+#ThalmorInterference
+#ReligiousConflict
+#ReligiousPersecution
+#NordReligion
+#TalosShrines
+#SecretWorship
+#CivilianLife
+#WartimeLife
+#WarRefugees
+#WarCrimes
+#MilitaryRequisition
+#PoliticalPrisoners
+#Arrests
+#Interrogation
+#Occupation
+#Resistance
+#Rebellion
+#Loyalty
+#PoliticalLoyalty
+#Suspicion
+#Propaganda
+#Rumors
+#InformationWarfare
+#SkyrimPolitics
+#SkyrimMilitary
+#SkyrimEconomy
+#SkyrimTrade
+#SkyrimCrime
+#SkyrimSociety
+#DragonReturn
+#ReturnOfTheDragons
+#Dragons
+#HelgenAttack
+#BeforeDragonReturn
+#PostHelgen
+
+# Skyrim During the Civil War
+
+## Overview
+
+Skyrim is in the midst of a brutal civil war between the Imperial Legion and the Stormcloak rebellion.
+
+The conflict began as a political and religious dispute but has grown into a struggle over the future of the entire province.
+
+The Imperial Legion fights to preserve Skyrim's place within the Empire and maintain the fragile peace established by the White-Gold Concordat. The Stormcloaks fight for Nordic independence and the restoration of unrestricted Talos worship.
+
+Neither side regards the conflict as merely a dispute between rival political factions.
+
+To the Empire, allowing Skyrim to secede could fracture Imperial authority at a time when the Aldmeri Dominion remains the Empire's greatest external threat.
+
+To the Stormcloaks, continued Imperial rule represents submission to a weakened foreign power that has surrendered Nordic religious freedom to the Thalmor.
+
+The result is a province increasingly divided by loyalty, fear, and necessity.
+
+The war has not yet consumed every corner of Skyrim. Some holds remain relatively peaceful, others are active military zones, and several attempt to remain neutral for as long as possible.
+
+But nowhere is entirely untouched.
+
+---
+
+# The State of the War
+
+The conflict has developed into a war of shifting fronts rather than one continuous battlefield.
+
+The Imperial Legion possesses superior organization, trained soldiers, established supply networks, and access to the resources of the wider Empire.
+
+The Stormcloaks possess local knowledge, strong support among portions of the Nordic population, and a powerful ideological commitment to independence.
+
+Both sides suffer from the same fundamental problem:
+
+Neither can afford a prolonged war.
+
+Every soldier killed is difficult to replace.
+
+Every wagon of grain diverted to an army is food that does not reach a town.
+
+Every damaged road, burned farm, or abandoned mine weakens Skyrim's economy.
+
+The longer the conflict continues, the more difficult ordinary life becomes.
+
+The war therefore exists on several levels simultaneously.
+
+There are battles between armies.
+
+There are political struggles between Jarls.
+
+There are raids against supply caravans.
+
+There are spies operating in towns.
+
+There are assassinations and disappearances.
+
+There are bandits who have realized that a province at war is a province with fewer guards.
+
+And there are ordinary people who simply attempt to survive until someone wins.
+
+---
+
+# The Imperial Legion
+
+General Tullius commands the Imperial military presence in Skyrim.
+
+His objective is straightforward: defeat the Stormcloak rebellion and restore Imperial authority throughout the province.
+
+Tullius considers Ulfric's rebellion disastrous for Skyrim and the Empire alike.
+
+In his view, the civil war has weakened Imperial military strength, disrupted trade, consumed resources, and created exactly the sort of internal division the Thalmor would prefer to see.
+
+The Legion maintains major garrisons throughout Imperial territory and has increased patrols around strategically important roads, forts, and settlements.
+
+Imperial soldiers are increasingly wary of civilians.
+
+Anyone traveling near a military installation may be questioned.
+
+Merchants are inspected.
+
+Letters are searched.
+
+Weapons are examined.
+
+People with suspicious affiliations may be detained.
+
+The Legion does not consider itself an occupying force.
+
+Many civilians increasingly do.
+
+---
+
+# The Stormcloak Forces
+
+Ulfric Stormcloak continues to command the rebellion from Windhelm.
+
+The Stormcloak cause remains strongest in Eastmarch and among Nords who consider Talos worship an essential part of their cultural identity.
+
+Stormcloak commanders are under increasing pressure.
+
+They must defend their existing territories while attempting to recruit additional soldiers and maintain supply lines.
+
+Ulfric has promised reinforcements to threatened territories, particularly those vulnerable to Imperial attack.
+
+However, Stormcloak forces are stretched thin.
+
+They are engaged on several fronts simultaneously, and supplies are becoming increasingly scarce.
+
+Some commanders have begun reducing patrols.
+
+Others have resorted to requisitioning food, horses, weapons, and other supplies from settlements.
+
+Although officially these actions are military necessities, civilians do not always see them that way.
+
+The longer the war continues, the more difficult it becomes to distinguish between a liberating army and another armed authority demanding obedience.
+
+---
+
+# The Thalmor
+
+The Thalmor remain officially outside the civil war.
+
+They are not an independent combatant faction.
+
+Their Justiciars nevertheless travel throughout Skyrim enforcing the ban on Talos worship and investigating suspected violations of the White-Gold Concordat.
+
+Their presence is deeply unpopular among many Nords.
+
+The Thalmor view both Imperial and Stormcloak forces with contempt.
+
+The Empire is useful but weakened.
+
+The Stormcloaks are dangerous but divided.
+
+Neither outcome is entirely satisfactory to the Dominion.
+
+A prolonged civil war serves the Thalmor's interests by weakening both sides.
+
+The Dominion therefore has little reason to encourage a rapid Imperial victory or a rapid Stormcloak victory.
+
+The Thalmor prefer a Skyrim that is exhausted, divided, militarily weakened, and politically unstable.
+
+Their activities are consequently focused primarily on intelligence gathering, religious enforcement, political pressure, and monitoring potential threats.
+
+Their involvement is subtle enough that proving deliberate interference is difficult.
+
+---
+
+# The Thalmor and Talos Worship
+
+Talos worship remains widespread despite being officially prohibited.
+
+In many rural communities, the ban is treated as an insult rather than a legitimate law.
+
+Small shrines are maintained in private homes, barns, caves, abandoned buildings, and secluded wilderness locations.
+
+Some worshippers conceal their beliefs.
+
+Others openly refuse to acknowledge Imperial authority.
+
+The Thalmor respond with arrests and interrogations.
+
+This creates an endless cycle.
+
+The more aggressively the Thalmor enforce the ban, the more resentment grows.
+
+The more resentment grows, the more likely the Empire is to face resistance.
+
+The more resistance occurs, the more pressure the Empire receives to enforce the Concordat.
+
+The civil war therefore has a religious dimension that cannot be separated from the military conflict.
+
+---
+
+# Crime and the Breakdown of Order
+
+The civil war has created opportunities for criminals throughout Skyrim.
+
+Imperial and Stormcloak forces are concentrating their manpower on strategic locations and military objectives.
+
+This leaves roads, villages, mines, farms, and isolated settlements vulnerable.
+
+Bandit groups have become more organized.
+
+Some operate independently.
+
+Others have begun working for wealthy merchants, corrupt officials, smugglers, or political factions.
+
+Caravans increasingly require armed escorts.
+
+Travelers avoid roads controlled by hostile patrols.
+
+Merchants sometimes pay both sides for safe passage.
+
+In some areas, bandits have begun collecting unofficial "tolls."
+
+The distinction between soldier, mercenary, outlaw, and criminal is becoming increasingly blurred.
+
+---
+
+# The Thieves Guild
+
+The Thieves Guild is attempting to rebuild its influence throughout Skyrim.
+
+The organization suffered a decline in recent years, but the civil war has created ideal conditions for its resurgence.
+
+Military disruption creates black markets.
+
+Border restrictions create demand for smugglers.
+
+Shortages increase the value of stolen goods.
+
+Corruption creates opportunities for blackmail.
+
+The Guild's activities extend beyond simple theft.
+
+Its members are increasingly involved in smuggling, information brokering, fencing stolen goods, and manipulating local criminal networks.
+
+Riften remains the center of its operations, but its influence is beginning to spread beyond the city.
+
+The Guild understands something that armies often forget:
+
+War creates enormous amounts of money.
+
+---
+
+# The Dark Brotherhood
+
+The Dark Brotherhood is also attempting to recover its influence.
+
+Political instability provides a steady supply of potential contracts.
+
+Military officers, wealthy merchants, political rivals, informants, and criminals all possess enemies willing to pay for their deaths.
+
+The Brotherhood's existence remains secretive.
+
+Unlike the Thieves Guild, it does not attempt to control the criminal economy openly.
+
+Its influence is felt through disappearances.
+
+A merchant dies in his sleep.
+
+A soldier vanishes while traveling between forts.
+
+A local official is found dead behind a locked door.
+
+A political rival simply never reaches his destination.
+
+In a province already filled with violence, the Dark Brotherhood can operate with unusual ease.
+
+---
+
+# The Northern Front
+
+The northern regions of Skyrim are among the most unstable areas of the province.
+
+The territory surrounding Haafingar and the Pale has become strategically important because of its proximity to Imperial and Stormcloak military positions.
+
+Roads are increasingly patrolled.
+
+Travelers are questioned.
+
+Military camps appear and disappear as commanders reposition their forces.
+
+Dawnstar and the surrounding territory are particularly vulnerable to supply shortages and political pressure.
+
+The harsh climate compounds the problem.
+
+A delayed shipment of food is not merely an inconvenience during winter.
+
+It can become a crisis.
+
+The combination of military activity, banditry, harsh weather, and disrupted trade has made travel through northern Skyrim increasingly dangerous.
+
+---
+
+# Haafingar and Solitude
+
+Solitude remains the political center of Imperial Skyrim.
+
+The mood within the city is increasingly grim.
+
+General Tullius views Ulfric's rebellion as a disastrous political failure that has weakened Skyrim and the Empire at precisely the wrong moment.
+
+He also understands the strategic danger posed by the Thalmor.
+
+The Empire cannot afford another major war with the Aldmeri Dominion while Skyrim is bleeding itself internally.
+
+At the same time, Tullius cannot simply abandon the civil war.
+
+Every concession to Ulfric risks encouraging further rebellion.
+
+Solitude therefore prepares for a prolonged conflict.
+
+The city remains relatively secure compared with much of Skyrim, but the atmosphere has changed.
+
+Military personnel are everywhere.
+
+Refugees arrive from unstable territories.
+
+Merchants complain about disrupted trade.
+
+Political conversations increasingly take place behind closed doors.
+
+The war has not reached Solitude's streets in full force.
+
+Everyone knows it could.
+
+---
+
+# The Reach and Markarth
+
+The Reach remains relatively calm compared with the eastern and northern fronts.
+
+Markarth continues functioning as a major economic center.
+
+The Silver-Blood family retains enormous influence over the city's silver mines and local politics.
+
+The city's apparent stability is deceptive.
+
+The Forsworn remain active throughout the Reach, particularly in remote areas and wilderness territories.
+
+They are waiting.
+
+The Forsworn understand that the Empire and Stormcloaks are currently focused upon each other.
+
+Every soldier sent east is a soldier who is not hunting Forsworn.
+
+Every disrupted supply route creates another opportunity.
+
+Every political disagreement weakens the authority of Markarth.
+
+The Forsworn are therefore biding their time.
+
+Should the civil war spread into the Reach, they will have an opportunity to turn the conflict into something far more dangerous.
+
+---
+
+# The Rift and Riften
+
+Riften remains one of the most politically nervous regions of Skyrim.
+
+The threat of an Imperial offensive is becoming increasingly difficult to ignore.
+
+Reports of Imperial forces gathering around Helgen and Falkreath have reached the city.
+
+The possibility of an Imperial push toward the Rift has caused considerable anxiety within the local government.
+
+Jarl Laila Law-Giver remains aligned with the Stormcloaks and has publicly expressed confidence that Ulfric will provide reinforcements.
+
+Privately, however, the situation is less reassuring.
+
+Stormcloak forces are already stretched across multiple fronts.
+
+Their supplies are running thin.
+
+The people of Riften therefore have little certainty about how long they could withstand a determined Imperial assault.
+
+The city's existing problems make the situation worse.
+
+Crime is widespread.
+
+The Thieves Guild is attempting to restore its former influence.
+
+Smuggling is increasing.
+
+Corruption remains entrenched.
+
+The city has become a place where political uncertainty and criminal opportunity reinforce one another.
+
+---
+
+# Whiterun
+
+Whiterun remains neutral.
+
+Jarl Balgruuf has so far resisted pressure from both sides to commit his hold to the war.
+
+This neutrality is increasingly difficult to maintain.
+
+Whiterun is strategically vital.
+
+Its central location makes it one of the most important military objectives in Skyrim.
+
+Whoever controls Whiterun gains access to roads connecting much of the province.
+
+The Empire wants it.
+
+The Stormcloaks want it.
+
+Balgruuf understands that neutrality can only last as long as both sides continue to tolerate it.
+
+The Jarl has historically leaned toward the Empire, but he understands that open Imperial alignment would create serious problems within the city.
+
+The population of Whiterun contains strong Nordic traditionalists.
+
+Talos worship remains popular.
+
+The presence of Thalmor agents is therefore deeply unpopular.
+
+Balgruuf faces an increasingly impossible political balancing act.
+
+Supporting the Empire risks angering his own people.
+
+Supporting the Stormcloaks risks provoking an Imperial assault.
+
+Remaining neutral may eventually satisfy neither side.
+
+Whiterun is not yet a battlefield.
+
+It is a prize waiting to become one.
+
+---
+
+# Winterhold and the College
+
+Winterhold remains largely irrelevant to the military conflict.
+
+The town itself has little political influence compared with Windhelm, Solitude, Whiterun, or Markarth.
+
+The College of Winterhold remains neutral.
+
+Its leadership has little interest in participating in the civil war.
+
+The College's scholars continue their studies despite the conflict surrounding them.
+
+This neutrality is respected, at least for now.
+
+The College does not openly support either side and generally avoids allowing military forces to interfere with its affairs.
+
+The political isolation of Winterhold has become almost surreal.
+
+While the rest of Skyrim argues over the future of the province, the College continues studying magic, ancient artifacts, magical theory, and the mysteries buried beneath Skyrim.
+
+The war feels distant there.
+
+That distance will not necessarily last.
+
+---
+
+# Eastmarch and Windhelm
+
+Windhelm remains the heart of the Stormcloak rebellion.
+
+Ulfric's political authority is strongest here.
+
+The city's population is deeply divided along political and racial lines.
+
+Nord traditionalists tend to support the rebellion, while Imperial sympathizers, Dunmer refugees, and other minorities often view Ulfric's government with suspicion or hostility.
+
+Eastmarch remains heavily militarized.
+
+Stormcloak recruitment continues.
+
+Supplies are collected.
+
+Messengers move between military camps.
+
+Rumors arrive daily from the western fronts.
+
+The city's political importance makes it a natural target for Imperial intelligence.
+
+For the Stormcloaks, losing Windhelm would be catastrophic.
+
+For the Empire, capturing it would represent a major blow to the rebellion.
+
+---
+
+# Falkreath
+
+Falkreath is strategically important because of its proximity to Cyrodiil.
+
+The hold sits along important southern routes and has become increasingly militarized as the Imperial Legion prepares for potential operations against Stormcloak territory.
+
+Imperial activity around Helgen and Falkreath has created considerable anxiety further east.
+
+Military camps, patrols, supply movements, and troop concentrations are becoming increasingly visible.
+
+This has led to rumors of an impending Imperial offensive.
+
+Whether such rumors accurately reflect Imperial plans or are simply the result of military preparation is difficult for civilians to determine.
+
+Either way, the psychological effect is the same.
+
+The Rift is preparing for an attack.
+
+---
+
+# The Civilian Population
+
+For ordinary people, the political arguments matter less than survival.
+
+Farmers must continue working fields despite the risk of requisition.
+
+Merchants must decide which roads are safe.
+
+Hunters avoid military patrols.
+
+Blacksmiths are pressured to produce weapons.
+
+Innkeepers listen to soldiers and travelers for information.
+
+Priests attempt to maintain religious services despite political restrictions.
+
+Families with relatives on opposite sides of the conflict often avoid discussing politics altogether.
+
+Some people support the Empire.
+
+Some support the Stormcloaks.
+
+Some support neither.
+
+A significant portion of the population simply wants the war to end.
+
+This does not make them politically neutral.
+
+Fear itself has become a political force.
+
+---
+
+# The Economy
+
+The civil war has disrupted Skyrim's internal economy.
+
+Military requisitions consume food, horses, weapons, leather, metal, and other supplies.
+
+Trade caravans increasingly require guards.
+
+Some merchants refuse to travel through contested territories.
+
+Bandits and smugglers exploit disrupted trade routes.
+
+Mining operations face labor shortages and security problems.
+
+Agricultural communities are vulnerable to both military requisition and criminal raids.
+
+Prices for essential goods have begun to fluctuate significantly depending upon location.
+
+Cities with reliable supply lines remain comparatively stable.
+
+Remote settlements experience shortages.
+
+The economic consequences of the war are therefore uneven.
+
+Some merchants are ruined.
+
+Others become wealthy.
+
+The black market grows.
+
+Criminal organizations become more powerful.
+
+---
+
+# Loyalty and Suspicion
+
+In wartime Skyrim, loyalty has become a dangerous currency.
+
+The colors worn by a soldier can determine how a traveler is treated.
+
+A blue cloak may be welcomed in one village and viewed with suspicion in another.
+
+Imperial red can mean protection in one region and hostility in the next.
+
+People increasingly conceal political affiliations.
+
+Travelers may lie about where they came from.
+
+Merchants may carry documents from multiple authorities.
+
+Soldiers may question strangers simply because they entered a town at the wrong time.
+
+Rumors can be as dangerous as weapons.
+
+A person accused of being a Stormcloak sympathizer may be arrested by Imperial soldiers.
+
+A suspected Imperial informant may disappear in Stormcloak territory.
+
+A person accused of aiding the Thalmor may become a target regardless of whether the accusation is true.
+
+Skyrim has become a place where being suspected of disloyalty can be nearly as dangerous as actually being disloyal.
+
+---
+
+# The Coming Storm
+
+The civil war has not yet reached its final stage.
+
+The major powers remain locked in a struggle that neither can easily end.
+
+The Empire wants to crush the rebellion before it grows stronger.
+
+The Stormcloaks want to survive long enough to force Imperial withdrawal.
+
+The Thalmor watch both sides weaken themselves.
+
+The Forsworn wait in the Reach.
+
+The Thieves Guild rebuilds its criminal network.
+
+The Dark Brotherhood searches for new contracts.
+
+Merchants struggle to keep trade alive.
+
+The Jarls attempt to preserve their authority.
+
+And ordinary people simply try to make it through another winter.
+
+Then, near Helgen, something impossible happens.
+
+A dragon returns.
+
+The destruction of Helgen marks the beginning of a new crisis that neither the Empire nor the Stormcloaks anticipated.
+
+The civil war does not end when the dragons return.
+
+It becomes more complicated.
+
+The balance of power in Skyrim is about to change.

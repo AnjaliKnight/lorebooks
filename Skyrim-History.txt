@@ -1,0 +1,451 @@
+#Skyrim
+#History
+#PreCivilWar
+#FourthEra
+#NordHistory
+#NordicHistory
+#Nords
+#Atmora
+#Ysgramor
+#FiveHundredCompanions
+#FirstNordicEmpire
+#NordicEmpire
+#ImperialHistory
+#Empire
+#ImperialEmpire
+#ThirdEmpire
+#SeptimEmpire
+#MedeEmpire
+#Emperor
+#TiberSeptim
+#Talos
+#TalosWorship
+#TalosBan
+#WhiteGoldConcordat
+#GreatWar
+#AldmeriDominion
+#Thalmor
+#ThalmorJusticiars
+#Aldmeri
+#ImperialLegion
+#Legion
+#GeneralTullius
+#UlfricStormcloak
+#Stormcloak
+#Stormcloaks
+#StormcloakRebellion
+#StormcloakCause
+#HighKing
+#HighKingTorygg
+#Torygg
+#Markarth
+#MarkarthIncident
+#Reach
+#Reachmen
+#Forsworn
+#JarlHrolfdir
+#Windhelm
+#Eastmarch
+#Solitude
+#Haafingar
+#Whiterun
+#Winterhold
+#CollegeOfWinterhold
+#Riften
+#Rift
+#Falkreath
+#ThePale
+#Dawnstar
+#Hjaalmarch
+#Morthal
+#CivilWar
+#SkyrimCivilWar
+#ImperialVsStormcloak
+#ImperialLoyalists
+#NordIndependence
+#SkyrimIndependence
+#ReligiousConflict
+#PoliticalConflict
+#ImperialAuthority
+#NordicTradition
+#ThalmorInfluence
+#ImperialPolitics
+#NordicPolitics
+#Jarl
+#Jarls
+#Holds
+#HoldPolitics
+#SkyrimPolitics
+#SkyrimReligion
+#FourthEraPolitics
+#DragonReturn
+#Dragons
+#TheEmpire
+#TheImperials
+#Imperials
+#ImperialGovernment
+#TheStormcloaks
+#StormcloakRebels
+#StormcloakRebellion
+#TheThalmor
+#AldmeriDominion
+#TalosReligion
+#TalosCult
+#DragonWar
+#BeforeTheDragons
+#BeforeHelgen
+#BeforeTheCivilWar
+#PreWarSkyrim
+
+
+# Skyrim Before the Civil War
+
+## Overview
+
+Skyrim is the ancient homeland of the Nords, a harsh northern province of Tamriel shaped by mountains, glaciers, forests, old grudges, and an equally old tradition of war. For centuries, its history has been defined by the uneasy relationship between the Nords and the wider empires that have sought to rule them.
+
+By the Fourth Era, Skyrim had become part of the Mede Empire, but Imperial authority was increasingly strained. The Great War between the Empire and the Aldmeri Dominion, the humiliating peace that followed, and the subsequent restrictions placed upon Talos worship created deep resentment among many Nords. These tensions were intensified by political disputes, old ethnic grievances, and the ambitions of Jarl Ulfric Stormcloak.
+
+The civil war that eventually erupted was not the result of a single disagreement. It was the culmination of decades of political, religious, military, and cultural tensions.
+
+---
+
+## Ancient Skyrim and the Nordic Identity
+
+The Nords trace their origins to the ancient Atmoran settlers who crossed the Sea of Ghosts and established themselves in Skyrim during the Merethic Era.
+
+Their early civilization grew around the legendary city of Saarthal. According to Nordic tradition, the early settlers eventually came into conflict with the native Snow Elves. The conflict culminated in the Night of Tears, during which Saarthal was destroyed and many of its inhabitants were killed.
+
+The survivors returned under Ysgramor and his Five Hundred Companions. Their subsequent campaigns drove the Snow Elves from much of Skyrim and established the foundations of Nordic civilization.
+
+Over the centuries, the Nords developed a powerful cultural identity centered upon independence, martial strength, ancestral tradition, and reverence for the Nordic gods. Skyrim's harsh environment reinforced these values. Survival required resilience, and political authority was traditionally intertwined with military power.
+
+The Nords also became famous throughout Tamriel for their warriors, explorers, and conquerors.
+
+---
+
+## The First Empire of the Nords
+
+Under High King Vrage the Gifted, the ancient Nords expanded beyond Skyrim and established the First Nordic Empire.
+
+At its height, Nordic influence extended into parts of modern-day High Rock, Morrowind, and Cyrodiil. Nordic armies conquered large territories, and Skyrim became one of the dominant powers of northern Tamriel.
+
+This expansion eventually provoked resistance.
+
+The War of Succession and the Battle of Red Mountain contributed to the collapse of Nordic dominance outside Skyrim. The Nords gradually withdrew from many of their conquered territories, and Skyrim returned to being a powerful but more regionally focused kingdom.
+
+Despite the decline of the First Nordic Empire, the memory of Nordic independence remained deeply embedded in Skyrim's cultural identity.
+
+---
+
+## The Alessian and Septim Eras
+
+Skyrim later became involved in the political struggles that shaped Cyrodiil and the wider Empire.
+
+The province was eventually incorporated into the Second Empire established by Alessia and her successors. Centuries later, Tiber Septim conquered Tamriel and established the Third Empire.
+
+The Nords became an important component of the Septim Empire. Skyrim retained its own traditions, Jarls, laws, and customs while recognizing Imperial authority.
+
+For centuries, this arrangement remained relatively stable.
+
+The Empire was not always loved by the Nords, but Imperial rule became an established part of Skyrim's political reality.
+
+The worship of Tiber Septim eventually developed into the worship of Talos, regarded by many Nords not merely as a historical conqueror but as a divine figure.
+
+This distinction would become critically important centuries later.
+
+---
+
+# The Great War
+
+The political stability of the Empire began to collapse during the Fourth Era.
+
+In 4E 171, the Aldmeri Dominion declared war upon the Empire.
+
+The Dominion, led by the Thalmor, sought to dismantle Imperial power and restore Aldmeri supremacy. The Empire was initially overwhelmed by the Dominion's forces. Imperial cities fell, and the Imperial capital itself was threatened.
+
+The Empire eventually recovered and launched a counteroffensive.
+
+The war culminated in the Battle of the Red Ring around the Imperial City. The Imperial victory inflicted severe casualties upon the Dominion and forced its armies from Cyrodiil.
+
+However, the Empire had suffered enormous losses.
+
+Neither side was in a position to continue the war indefinitely.
+
+The result was the signing of the White-Gold Concordat.
+
+---
+
+# The White-Gold Concordat
+
+The White-Gold Concordat ended the Great War but imposed severe concessions upon the Empire.
+
+Among its most controversial provisions was the banning of the worship of Talos.
+
+To many Imperial officials, the Concordat was an unpleasant but necessary peace treaty. The Empire needed time to rebuild its military strength and prepare for the possibility of another war with the Dominion.
+
+To many Nords, however, the ban represented something fundamentally different.
+
+Talos was not simply an Imperial historical figure. He was deeply connected to Nordic identity and religious tradition.
+
+The prohibition therefore became a symbol of Imperial weakness and foreign interference.
+
+The Thalmor were granted significant authority to enforce the religious restrictions, further inflaming resentment.
+
+Although Talos worship did not disappear, it was driven underground.
+
+Secret shrines appeared throughout Skyrim, and worshippers risked arrest if discovered by Imperial authorities or Thalmor agents.
+
+---
+
+# The Markarth Incident
+
+One of the most important events leading toward the civil war occurred in the Reach.
+
+During the Great War, the Reach was seized by the Forsworn, a militant movement composed primarily of Reachmen seeking independence from Nordic rule.
+
+Jarl Hrolfdir of Markarth appealed to Ulfric Stormcloak for military assistance.
+
+Ulfric and his forces successfully retook Markarth.
+
+In exchange for his assistance, Ulfric demanded that Talos worship be permitted openly in the city.
+
+For a time, the agreement was honored.
+
+However, the Empire eventually learned of the arrangement and pressured Markarth to enforce the White-Gold Concordat.
+
+Talos worship was once again prohibited.
+
+The resulting crackdown included arrests and executions of suspected Forsworn sympathizers and other political opponents.
+
+Ulfric and his followers were imprisoned.
+
+The incident became a defining grievance for Ulfric and his supporters.
+
+To the Stormcloaks, Markarth demonstrated that the Empire was willing to surrender Nordic religious freedom to satisfy the Thalmor.
+
+To the Empire, Ulfric had exploited a military crisis to challenge Imperial authority and had endangered the fragile peace established by the Concordat.
+
+The event became one of the foundations of the Stormcloak cause.
+
+---
+
+# The Rise of Ulfric Stormcloak
+
+Ulfric Stormcloak was a Nord nobleman, veteran, and former student of the Greybeards.
+
+He had trained at High Hrothgar and learned to use the Thu'um. He later served in the Great War before returning to Skyrim.
+
+Following the Markarth Incident, Ulfric became increasingly hostile toward Imperial rule.
+
+His political influence grew among Nords who opposed the Talos ban and believed Skyrim had become subservient to the Empire.
+
+Ulfric eventually became Jarl of Windhelm and leader of a growing political movement.
+
+His supporters regarded him as a defender of Nordic independence and religious freedom.
+
+His opponents regarded him as an ambitious politician who manipulated legitimate grievances for his own political ambitions.
+
+The disagreement over Ulfric's motives became inseparable from the wider political conflict.
+
+---
+
+# The Death of High King Torygg
+
+The immediate political crisis began with the death of High King Torygg.
+
+According to Imperial accounts, Ulfric challenged Torygg to a duel and used the Thu'um against him before killing him.
+
+Ulfric and his supporters maintained that the challenge was a legitimate traditional Nordic contest.
+
+The circumstances surrounding the duel became highly controversial.
+
+Regardless of the precise interpretation, Torygg's death shattered the political balance of Skyrim.
+
+Ulfric fled to Windhelm and declared himself the champion of Skyrim's independence.
+
+The Imperial government regarded him as a rebel and murderer.
+
+The Stormcloaks regarded him as the rightful leader of a movement to liberate Skyrim.
+
+The question of who should rule Skyrim could no longer be settled through ordinary political negotiation.
+
+Civil war became inevitable.
+
+---
+
+# The Imperial Legion in Skyrim
+
+The Empire responded by sending General Tullius to Skyrim.
+
+Tullius was an experienced Imperial commander who had served during the Great War. Unlike many Skyrim-born Imperial officers, he regarded the conflict primarily as a military and political rebellion that needed to be contained.
+
+The Imperial Legion established garrisons throughout Skyrim and began recruiting local soldiers.
+
+Imperial forces included both professional soldiers from outside Skyrim and Nords who remained loyal to the Empire.
+
+The Legion's official position was that Skyrim remained a province of the Empire and that Ulfric's rebellion threatened the stability of all of Tamriel.
+
+The Empire also understood that losing Skyrim could have consequences far beyond the province itself.
+
+A successful secession could weaken Imperial authority and potentially provide the Aldmeri Dominion with another opportunity to exploit divisions within the Empire.
+
+---
+
+# The Stormcloak Rebellion
+
+The Stormcloak movement grew from opposition to Imperial rule, the Talos ban, and perceived foreign influence.
+
+Stormcloak soldiers were predominantly Nords, although individuals of other backgrounds could support the cause.
+
+Their central beliefs varied from person to person.
+
+Some genuinely sought complete independence for Skyrim.
+
+Others primarily wanted unrestricted worship of Talos.
+
+Some opposed the Empire because they believed it had become too weak to defend Skyrim.
+
+Others followed Ulfric because of personal loyalty, regional politics, or resentment toward Imperial authority.
+
+The Stormcloak movement therefore represented several overlapping grievances rather than a single unified ideology.
+
+Its headquarters became Windhelm, where Ulfric ruled as Jarl.
+
+---
+
+# The Thalmor
+
+The Aldmeri Dominion maintained a significant presence in Skyrim through the Thalmor.
+
+Officially, the Thalmor were concerned with enforcing the terms of the White-Gold Concordat, particularly the prohibition of Talos worship.
+
+Their agents, known as Justiciars, traveled throughout Skyrim searching for suspected Talos worshippers.
+
+Their methods created considerable resentment.
+
+The Thalmor possessed authority derived from the Concordat, but their presence was widely regarded by many Nords as an intrusion into Skyrim's affairs.
+
+The Imperial government was forced to tolerate their presence despite the hostility it generated.
+
+This created one of the most bitter contradictions of the era.
+
+The Empire and the Thalmor were political enemies preparing for the possibility of another war, yet the Empire was obligated to enforce a treaty that granted the Thalmor influence within Imperial territory.
+
+The Stormcloaks used this contradiction as one of their strongest arguments against Imperial rule.
+
+---
+
+# The Holds of Skyrim
+
+Skyrim was divided into nine holds, each governed by a Jarl.
+
+The Jarls possessed substantial authority over local administration, taxation, justice, and military forces, while remaining subordinate to the High King and, ultimately, the Empire.
+
+Each hold possessed its own political culture and interests.
+
+### Haafingar
+
+Haafingar was dominated by Solitude, Skyrim's Imperial capital and the seat of the High King's court.
+
+The hold was strongly aligned with the Empire.
+
+Solitude was prosperous, cosmopolitan, and heavily involved in Imperial administration and trade.
+
+### The Reach
+
+The Reach was centered around Markarth and its valuable silver mines.
+
+The hold had a long history of conflict between Nords and Reachmen.
+
+The Forsworn remained a persistent threat in the wilderness despite Imperial and Nordic efforts to suppress them.
+
+### Hjaalmarch
+
+Hjaalmarch was a sparsely populated, marshy hold centered around Morthal.
+
+Its isolation made it less politically influential than Solitude, Windhelm, or Whiterun, although its location gave it strategic importance.
+
+### The Pale
+
+The Pale was a harsh northern hold centered around Dawnstar.
+
+Its coastline and proximity to the Sea of Ghosts made it economically important, while its isolation made travel difficult.
+
+### Whiterun
+
+Whiterun occupied the geographic center of Skyrim.
+
+Its plains, farms, roads, and central position made the hold strategically important.
+
+The city itself was one of Skyrim's major trading centers.
+
+Its Jarl maintained a position of neutrality during the early stages of the conflict, making Whiterun one of the most politically important territories in Skyrim.
+
+### Winterhold
+
+Winterhold had once been one of Skyrim's greatest cities.
+
+By the Fourth Era, much of the city had been destroyed by the Great Collapse.
+
+Its remaining population was small, while the College of Winterhold remained the hold's most significant institution.
+
+The College maintained political independence and generally avoided involvement in the civil war.
+
+### Eastmarch
+
+Eastmarch was dominated by Windhelm, the seat of Ulfric Stormcloak.
+
+It became the political heart of the rebellion.
+
+The hold possessed a strong Nordic identity and was deeply hostile toward Imperial authority.
+
+### The Rift
+
+The Rift was centered around Riften.
+
+The hold was geographically distant from many of the major battlefronts but possessed valuable farmland, forests, and trade routes.
+
+Riften's politics were complicated by the influence of organized crime, particularly the Thieves Guild.
+
+### Falkreath
+
+Falkreath occupied the southern reaches of Skyrim and bordered Cyrodiil.
+
+Its forests and proximity to the Imperial heartland made it strategically important.
+
+The hold also served as one of the principal approaches between Skyrim and Cyrodiil.
+
+---
+
+# Skyrim on the Eve of Civil War
+
+By the time General Tullius arrived in Skyrim, the province was already deeply divided.
+
+The Empire still possessed the greater institutional infrastructure, professional military organization, and international legitimacy.
+
+The Stormcloaks possessed strong local support among many Nords and controlled significant territory in eastern Skyrim.
+
+Neither side could easily destroy the other.
+
+The Jarls were forced to choose between competing loyalties.
+
+Merchants feared disruption of trade.
+
+Farmers feared armies marching across their fields.
+
+Travelers faced increasing danger on roads and mountain passes.
+
+Bandits, smugglers, and criminal organizations benefited from the weakening of law enforcement.
+
+The Thalmor watched the conflict with interest.
+
+The Empire and Stormcloaks viewed each other as existential threats.
+
+Yet beneath the political arguments were ordinary people who had to continue living in the province while its leaders fought over its future.
+
+Skyrim stood on the edge of war.
+
+Neither side yet understood that a far older threat was beginning to stir beneath the surface.
+
+The dragons were returning.
